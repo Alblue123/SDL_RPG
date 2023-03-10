@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1678440567 source:c:\users\admin\onedrive\desktop\elpis_adventure\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<string>
+	"RenderWindow.h"
+	<iostream>
+
+1678442618 c:\users\admin\onedrive\desktop\elpis_adventure\renderwindow.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+
+1678442978 source:c:\users\admin\onedrive\desktop\elpis_adventure\renderwindow.cpp
+	"RenderWindow.h"
+
